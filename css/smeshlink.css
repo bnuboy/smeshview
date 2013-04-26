@@ -1,0 +1,18 @@
+#banner{
+	background: url("../img/smeshlink/banner.jpg") no-repeat right center;
+	height: 80px;
+}
+#logo{
+	background: url("../img/smeshlink/logo.png") no-repeat;
+	height: 80px;
+}
+.navbar .nav{
+	display: table;
+	margin: 0;
+	width: 100%;
+}
+.navbar .nav li{
+	display: table-cell;
+	float: none;
+	width: 1%;
+}
